@@ -1,0 +1,28 @@
+# Compiled class files
+*.class
+
+# Java package files
+*.jar
+*.war
+*.nar
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+
+# IDE-related files
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
+# Binary and log files
+bin/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
